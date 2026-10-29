@@ -1,0 +1,14 @@
+{
+  "name": "telegram-auto-approve-bot",
+  "version": "1.0.0",
+  "description": "Auto approve channel requests and save users to Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
